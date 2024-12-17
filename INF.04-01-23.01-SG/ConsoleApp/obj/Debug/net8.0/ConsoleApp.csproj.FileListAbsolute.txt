@@ -1,0 +1,15 @@
+/home/tekashi/Projects/INF04_CSharp/INF.04-01-23.01-SG/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/home/tekashi/Projects/INF04_CSharp/INF.04-01-23.01-SG/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/home/tekashi/Projects/INF04_CSharp/INF.04-01-23.01-SG/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/home/tekashi/Projects/INF04_CSharp/INF.04-01-23.01-SG/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/home/tekashi/Projects/INF04_CSharp/INF.04-01-23.01-SG/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/home/tekashi/Projects/INF04_CSharp/INF.04-01-23.01-SG/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/tekashi/Projects/INF04_CSharp/INF.04-01-23.01-SG/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/home/tekashi/Projects/INF04_CSharp/INF.04-01-23.01-SG/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/home/tekashi/Projects/INF04_CSharp/INF.04-01-23.01-SG/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/home/tekashi/Projects/INF04_CSharp/INF.04-01-23.01-SG/ConsoleApp/obj/Debug/net8.0/ConsoleApp.sourcelink.json
+/home/tekashi/Projects/INF04_CSharp/INF.04-01-23.01-SG/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/home/tekashi/Projects/INF04_CSharp/INF.04-01-23.01-SG/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/home/tekashi/Projects/INF04_CSharp/INF.04-01-23.01-SG/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/home/tekashi/Projects/INF04_CSharp/INF.04-01-23.01-SG/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/home/tekashi/Projects/INF04_CSharp/INF.04-01-23.01-SG/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
