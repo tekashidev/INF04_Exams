@@ -1,2 +1,2 @@
-# INF04_CSharp
+# INF04_Exams
  
