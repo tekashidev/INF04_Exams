@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/tekashi/Projects/INF04_CSharp/INF.04-01-21.06-SG/ConsoleApp/ConsoleApp.csproj": {}
+    "/home/tekashi/Projects/INF04_Exams/INF.04-01-21.06-SG/ConsoleApp/ConsoleApp.csproj": {}
   },
   "projects": {
-    "/home/tekashi/Projects/INF04_CSharp/INF.04-01-21.06-SG/ConsoleApp/ConsoleApp.csproj": {
+    "/home/tekashi/Projects/INF04_Exams/INF.04-01-21.06-SG/ConsoleApp/ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/tekashi/Projects/INF04_CSharp/INF.04-01-21.06-SG/ConsoleApp/ConsoleApp.csproj",
+        "projectUniqueName": "/home/tekashi/Projects/INF04_Exams/INF.04-01-21.06-SG/ConsoleApp/ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "/home/tekashi/Projects/INF04_CSharp/INF.04-01-21.06-SG/ConsoleApp/ConsoleApp.csproj",
+        "projectPath": "/home/tekashi/Projects/INF04_Exams/INF.04-01-21.06-SG/ConsoleApp/ConsoleApp.csproj",
         "packagesPath": "/home/tekashi/.nuget/packages/",
-        "outputPath": "/home/tekashi/Projects/INF04_CSharp/INF.04-01-21.06-SG/ConsoleApp/obj/",
+        "outputPath": "/home/tekashi/Projects/INF04_Exams/INF.04-01-21.06-SG/ConsoleApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/tekashi/.nuget/NuGet/NuGet.Config"
