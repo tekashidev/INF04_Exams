@@ -1,0 +1,14 @@
+H:\tekashi.dev\ConsoleCeasar\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+H:\tekashi.dev\ConsoleCeasar\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+H:\tekashi.dev\ConsoleCeasar\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+H:\tekashi.dev\ConsoleCeasar\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+H:\tekashi.dev\ConsoleCeasar\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+H:\tekashi.dev\ConsoleCeasar\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+H:\tekashi.dev\ConsoleCeasar\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+H:\tekashi.dev\ConsoleCeasar\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+H:\tekashi.dev\ConsoleCeasar\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+H:\tekashi.dev\ConsoleCeasar\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+H:\tekashi.dev\ConsoleCeasar\ConsoleApp\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+H:\tekashi.dev\ConsoleCeasar\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+H:\tekashi.dev\ConsoleCeasar\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+H:\tekashi.dev\ConsoleCeasar\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
